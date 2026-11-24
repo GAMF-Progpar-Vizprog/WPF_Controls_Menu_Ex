@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace Menu_Example
+namespace WPF_Controls_Menu_Ex
 {
 	/// <summary>
 	/// Interaction logic for App.xaml
